@@ -1,0 +1,22 @@
+description: Ultralytics YOLO_8_N_Ori model trained on data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-07-23T16:51:27.122184'
+version: 8.0.136
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: Hardhat
+  1: Mask
+  2: NO-Hardhat
+  3: NO-Mask
+  4: NO-Safety Vest
+  5: Person
+  6: Safety Cone
+  7: Safety Vest
+  8: machinery
+  9: vehicle
