@@ -77,3 +77,16 @@ button:hover {
   background-color: #61dafb;
   border: 2px solid #61dafb;
 }
+
+
+.modelSelection {
+  text-decoration: none;
+  color: white;
+  background-color: #282c34;
+  border: 1px solid #444;
+  margin: 0 5px;
+  padding: 4px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
